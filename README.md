@@ -9,3 +9,4 @@
 - service that contains user information, such as email, phone number and list of subscriptions
 - service that would produce *dummy* bills
 - service that would listen for incomming bills and send notifications to customers (notifications could be logged in the console in the following format: "Received a bill for subscription={subscription} from provider={provider} for {sum} {currency}. Sending {notification type} to {contact info}")
+<img width="1191" alt="Diagram" src="https://github.com/user-attachments/assets/a755cfd4-b119-4b17-909d-b3b85aef397d">
